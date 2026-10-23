@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# 本地测试脚本
+cleanup_mobile.py
+verify_mobile.py
+verify_mobile.txt
