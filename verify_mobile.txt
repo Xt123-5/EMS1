@@ -1,0 +1,4 @@
+[合法号 18812345678] 提交后含红字错误吗: False
+[非法号 22222222222（2开头）] 含红字"手机号格式不正确": True
+[非法号 abcdefghijk（字母）] 含红字"手机号格式不正确": True
+[输入框实际 HTML]: <input type="text" name="mobile" maxlength="11" class="form-control" placeholder="手机号" required id="id_mobile">
